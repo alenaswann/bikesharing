@@ -3,8 +3,9 @@
 ### An analysis on the NYC CitiBike bikesharing program for the month of August has been conducted as part of the research for a proposed bikesharing program in Des Moines, Iowa. Through analyzing the usage statistics of CitiBike, investors and program developers can get a sense of how best to apply and utilize a bikesharing program in a new location.
 
 ## Resources
-### Program:
+### Programs:
 - Tableau Public
+- Jupyter Notebook (for Datetime conversion)
 
 ### Data Source
 - 201908-citibike-tripdata.csv
